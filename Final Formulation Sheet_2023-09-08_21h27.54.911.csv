@@ -1,0 +1,18 @@
+﻿Row Labels,Count of Variables,
+correct rejection,39,
+hit,79,
+miss,83,
+Grand Total,201,
+,,
+,,
+,Respond yes ,Respond No
+signal present ,79,83
+signal absent,0,39
+,,
+Proportion Hit = Hit/ hit + miss ,,0.487654321
+Proportion of false alarm = false alarm/ false alarm + correct rejection ,,0.5
+,,
+,,
+,,
+d prime,-0.030950969,
+c value ,-0.015475484,
