@@ -1,0 +1,159 @@
+7.6385 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+9.7640 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002A13B3E2130>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002A13B3E20D0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002A13B3D1F70>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002A13B789C10>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+9.7642 	EXP 	window1: mouseVisible = True
+9.7642 	EXP 	window1: backgroundImage = ''
+9.7642 	EXP 	window1: backgroundFit = 'none'
+9.7683 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+9.7683 	EXP 	window1: recordFrameIntervals = False
+9.9299 	EXP 	window1: recordFrameIntervals = True
+10.1135 	EXP 	Screen (0) actual frame rate measured at 60.01Hz
+10.1136 	EXP 	window1: recordFrameIntervals = False
+10.1138 	EXP 	window1: mouseVisible = False
+13.1796 	EXP 	untitledFINAL: status = STARTED
+13.1802 	EXP 	window1: mouseVisible = True
+13.2840 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1.    , 1.    , 0.8824]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+13.2842 	EXP 	window1: mouseVisible = True
+13.3001 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1.    , 1.    , 0.8824]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text="Are you ready?\n\nLet's Get Started !\n", units='height', win=Window(...), wrapWidth=1)
+13.3002 	EXP 	window1: mouseVisible = True
+13.3126 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+13.3128 	EXP 	window1: mouseVisible = True
+13.3239 	EXP 	Created blackroad = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='blackroad', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+13.3241 	EXP 	window1: mouseVisible = True
+13.3381 	EXP 	Created yellowillusion = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='yellowillusion', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+13.3382 	EXP 	window1: mouseVisible = True
+13.3540 	EXP 	Created redillusion = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='redillusion', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+13.3541 	EXP 	window1: mouseVisible = True
+13.3726 	EXP 	Created wall = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='wall', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+13.3727 	EXP 	window1: mouseVisible = True
+13.3977 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+13.3979 	EXP 	window1: mouseVisible = True
+13.4049 	EXP 	Created instructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instructions', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='I hope you love the pictures :)\n', units='height', win=Window(...), wrapWidth=1)
+13.4050 	EXP 	window1: mouseVisible = True
+13.4216 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+13.4218 	EXP 	window1: mouseVisible = True
+13.4356 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_5', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+13.4358 	EXP 	window1: mouseVisible = True
+13.4610 	EXP 	Created text_6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_6', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+13.4612 	EXP 	window1: mouseVisible = True
+13.4723 	EXP 	Created yellowillusionimage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='yellowillusionimage', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+13.4725 	EXP 	window1: mouseVisible = True
+13.4814 	EXP 	Created blackroadimage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='blackroadimage', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+13.4815 	EXP 	window1: mouseVisible = True
+13.4952 	EXP 	Created pastelimage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='pastelimage', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+13.4954 	EXP 	window1: mouseVisible = True
+13.5083 	EXP 	Created redillusionimage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='redillusionimage', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+13.5085 	EXP 	window1: mouseVisible = True
+13.5212 	EXP 	Created whiteimage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='whiteimage', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+13.5214 	EXP 	window1: mouseVisible = True
+13.5301 	EXP 	Created yellowwhiteimage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='yellowwhiteimage', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+13.5303 	EXP 	window1: mouseVisible = True
+13.5508 	EXP 	Created colourfulimage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='colourfulimage', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+13.5509 	EXP 	window1: mouseVisible = True
+13.5649 	EXP 	Created wallimage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='wallimage', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+13.5651 	EXP 	window1: mouseVisible = True
+13.5745 	EXP 	Created text_7 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_7', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='THANK YOU :)\n', units='height', win=Window(...), wrapWidth=1)
+0.0109 	EXP 	text: autoDraw = True
+5.0047 	EXP 	text: autoDraw = False
+5.0047 	EXP 	text_2: autoDraw = True
+10.0047 	EXP 	text_2: autoDraw = False
+10.0047 	EXP 	text_3: autoDraw = True
+15.0333 	EXP 	text_3: autoDraw = False
+15.0333 	EXP 	text: autoDraw = False
+15.0333 	EXP 	text_2: autoDraw = False
+15.0333 	EXP 	text_3: autoDraw = False
+15.0333 	EXP 	blackroad: autoDraw = True
+18.0052 	EXP 	blackroad: autoDraw = False
+18.0052 	EXP 	yellowillusion: autoDraw = True
+21.0053 	EXP 	yellowillusion: autoDraw = False
+21.0053 	EXP 	redillusion: autoDraw = True
+24.0051 	EXP 	redillusion: autoDraw = False
+24.0051 	EXP 	wall: autoDraw = True
+27.0053 	EXP 	wall: autoDraw = False
+27.0053 	EXP 	image: autoDraw = True
+30.0045 	EXP 	image: autoDraw = False
+30.0045 	EXP 	blackroad: autoDraw = False
+30.0045 	EXP 	yellowillusion: autoDraw = False
+30.0045 	EXP 	redillusion: autoDraw = False
+30.0045 	EXP 	wall: autoDraw = False
+30.0045 	EXP 	image: autoDraw = False
+30.0045 	EXP 	instructions: autoDraw = True
+33.0048 	EXP 	instructions: autoDraw = False
+33.0048 	EXP 	text_4: autoDraw = True
+36.0048 	EXP 	text_4: autoDraw = False
+36.0048 	EXP 	text_5: autoDraw = True
+39.0049 	EXP 	text_5: autoDraw = False
+39.0049 	EXP 	text_6: autoDraw = True
+42.0006 	EXP 	Imported Routine1.xlsx as conditions, 2 conditions, 2 params
+42.0014 	EXP 	Created sequence: random, trialTypes=2, nReps=1, seed=None
+42.0017 	EXP 	New trial (rep=0, index=0): {'image': 'yellowillusionimage ', 'corr_resp': 'n'}
+42.0071 	EXP 	text_6: autoDraw = False
+42.0071 	EXP 	instructions: autoDraw = False
+42.0071 	EXP 	text_4: autoDraw = False
+42.0071 	EXP 	text_5: autoDraw = False
+42.0071 	EXP 	text_6: autoDraw = False
+42.0071 	EXP 	yellowillusionimage: autoDraw = True
+45.0049 	EXP 	yellowillusionimage: autoDraw = False
+45.0049 	EXP 	blackroadimage: autoDraw = True
+47.9902 	EXP 	New trial (rep=0, index=1): {'image': 'blackroadimage', 'corr_resp': 'r'}
+48.0049 	EXP 	blackroadimage: autoDraw = False
+48.0049 	EXP 	yellowillusionimage: autoDraw = False
+48.0049 	EXP 	blackroadimage: autoDraw = False
+48.0049 	EXP 	yellowillusionimage: autoDraw = True
+51.0049 	EXP 	yellowillusionimage: autoDraw = False
+51.0049 	EXP 	blackroadimage: autoDraw = True
+53.9978 	EXP 	Imported Routine2.xlsx as conditions, 2 conditions, 2 params
+53.9985 	EXP 	Created sequence: random, trialTypes=2, nReps=1, seed=None
+53.9988 	EXP 	New trial (rep=0, index=0): {'image': 'redillusionimage', 'corr_resp': 'r'}
+54.0047 	EXP 	blackroadimage: autoDraw = False
+54.0047 	EXP 	yellowillusionimage: autoDraw = False
+54.0047 	EXP 	blackroadimage: autoDraw = False
+54.0047 	EXP 	pastelimage: autoDraw = True
+57.0049 	EXP 	pastelimage: autoDraw = False
+57.0049 	EXP 	redillusionimage: autoDraw = True
+59.9902 	EXP 	New trial (rep=0, index=1): {'image': 'pastelimage', 'corr_resp': 'n'}
+60.0048 	EXP 	redillusionimage: autoDraw = False
+60.0048 	EXP 	pastelimage: autoDraw = False
+60.0048 	EXP 	redillusionimage: autoDraw = False
+60.0048 	EXP 	pastelimage: autoDraw = True
+63.0048 	EXP 	pastelimage: autoDraw = False
+63.0048 	EXP 	redillusionimage: autoDraw = True
+65.9964 	EXP 	Imported Routine3.xlsx as conditions, 2 conditions, 2 params
+65.9970 	EXP 	Created sequence: random, trialTypes=2, nReps=1, seed=None
+65.9973 	EXP 	New trial (rep=0, index=0): {'image': 'whiteimage', 'corr_resp': 'n'}
+66.0049 	EXP 	redillusionimage: autoDraw = False
+66.0049 	EXP 	pastelimage: autoDraw = False
+66.0049 	EXP 	redillusionimage: autoDraw = False
+66.0049 	EXP 	whiteimage: autoDraw = True
+69.0045 	EXP 	whiteimage: autoDraw = False
+69.0045 	EXP 	yellowwhiteimage: autoDraw = True
+71.9897 	EXP 	New trial (rep=0, index=1): {'image': 'yellowwhiteimage', 'corr_resp': 'n'}
+72.0047 	EXP 	yellowwhiteimage: autoDraw = False
+72.0047 	EXP 	whiteimage: autoDraw = False
+72.0047 	EXP 	yellowwhiteimage: autoDraw = False
+72.0047 	EXP 	whiteimage: autoDraw = True
+75.0044 	EXP 	whiteimage: autoDraw = False
+75.0044 	EXP 	yellowwhiteimage: autoDraw = True
+77.9980 	EXP 	Imported Routine4.xlsx as conditions, 2 conditions, 2 params
+77.9987 	EXP 	Created sequence: random, trialTypes=2, nReps=1, seed=None
+77.9990 	EXP 	New trial (rep=0, index=0): {'image': 'colourfulimage', 'corr_resp': 'r'}
+78.0047 	EXP 	yellowwhiteimage: autoDraw = False
+78.0047 	EXP 	whiteimage: autoDraw = False
+78.0047 	EXP 	yellowwhiteimage: autoDraw = False
+78.0047 	EXP 	colourfulimage: autoDraw = True
+81.0046 	EXP 	colourfulimage: autoDraw = False
+81.0046 	EXP 	wallimage: autoDraw = True
+83.9901 	EXP 	New trial (rep=0, index=1): {'image': 'wallimage', 'corr_resp': 'n'}
+84.0045 	EXP 	wallimage: autoDraw = False
+84.0045 	EXP 	colourfulimage: autoDraw = False
+84.0045 	EXP 	wallimage: autoDraw = False
+84.0045 	EXP 	colourfulimage: autoDraw = True
+87.0044 	EXP 	colourfulimage: autoDraw = False
+87.0044 	EXP 	wallimage: autoDraw = True
+90.0039 	EXP 	wallimage: autoDraw = False
+90.0039 	EXP 	colourfulimage: autoDraw = False
+90.0039 	EXP 	wallimage: autoDraw = False
+90.0039 	EXP 	text_7: autoDraw = True
+93.0038 	EXP 	text_7: autoDraw = False
+93.0038 	EXP 	text_7: autoDraw = False
+93.0039 	EXP 	untitledFINAL: status = STOPPED
+93.1765 	EXP 	window1: mouseVisible = True
